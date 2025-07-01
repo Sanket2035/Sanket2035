@@ -45,9 +45,3 @@
 
 ###
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sanket2035/Sanket2035/snake.svg" alt="Snake animation" />
-
-###
