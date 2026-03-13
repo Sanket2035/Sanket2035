@@ -15,12 +15,33 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 Introduction
+I am a dedicated **Computer Science Graduate** and aspiring Software Engineer with a deep passion for building scalable backend architectures and dynamic user interfaces. What started out as a curiosity for how websites work has evolved into a disciplined pursuit of mastering **Java, Spring Boot, and React**.
 
-*   🎓 Pursuing **MCA (Management)** at Sinhgad Institute of Management (2025-2027)
-*   💻 Specializing in **Java**, **Spring Boot**, **React**, and **RESTful Architecture**
-*   🚀 Currently building a full-stack **Label Manufacturing ERP / Management System**
-*   📫 How to reach me: **sanketks200305@gmail.com**
+I thrive on solving complex logical problems, debugging intricate issues, and continually expanding my technical footprint. My goal is to build impactful software that lives at the intersection of beautiful design and robust engineering.
+
+---
+
+## 🚀 Featured Projects & Experience
+
+*   **📦 Label Manufacturing ERP (Current)**
+    *   *Full-Stack Architecture*: Developing an enterprise-grade ERP system using **Java Spring Boot (REST API)** and **MongoDB** for the backend, with a highly modern **React (Vite) + Tailwind CSS** frontend. It features automated inventory calculation, dynamic job tracking, and PDF generation.
+*   **🌐 3D Interactive Portfolio**
+    *   *Frontend Engineering*: Built a premium, animated web portfolio using **React** and **Framer Motion**. It features a custom physics-driven cursor, 3D tilt-responsive project cards, and a dynamic GitHub contribution integration.
+*   **🚆 Train Ticket Booking System**
+    *   Designed the core business logic for booking processing, seat allocation, and scheduling.
+*   **🔍 Network Monitoring Tool**
+    *   Developed a Python-based utility to monitor network interfaces and execute packet analysis.
+
+---
+
+## ⚡ Interests & Hobbies
+*   **System Architecture & API Design:** I love mapping out complex database schemas and mapping them to efficient RESTful endpoints.
+*   **UI/UX Aesthetic:** Blending functionality with stunning "GenZ" dark-mode aesthetics, glassmorphism, and micro-animations.
+*   **Continuous Learning:** Constantly exploring new frameworks, cloud deployment strategies, and best practices for clean code.
+*   **Cybersecurity:** Certified in basic Cyber Security, holding an interest in secure application development and network safety.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,12 +60,8 @@
 
 <br/>
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanket2035/Sanket2035/output/snake.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanket2035/Sanket2035/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanket2035/Sanket2035/output/snake.svg?palette=github-dark">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket2035&theme=tokyo-night&bg_color=020617&hide_border=true" width="100%" />
 </div>
