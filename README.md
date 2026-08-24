@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Software+Engineer;Building+Scalable+Dreams+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Software+Developer;Building+Scalable+Dreams+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 <div align="center">
   <h3>✨ Crafting Premium Web Experiences & Robust Enterprise Backends ✨</h3>
-  <p><i>Computer Science Graduate | Full-Stack Developer | System Architecture Enthusiast</i></p>
+  <p><i>Software Developer | Full-Stack Engineer | Creative Automation Specialist</i></p>
 </div>
 
 ---
@@ -33,13 +33,13 @@
 | 🌱 | 💼 | 🎓 | 🎯 |
 |:---:|:---:|:---:|:---:|
 | **Learning** | **Building** | **Exploring** | **Goal** |
-| Next.js & TypeScript | Label Manufacturing ERP | Web3 & Cloud Architecture | Lead Architect |
+| ExtendScript & UXP | Adobe Illustrator Plugins | Web3 & Cloud Architecture | Tech Lead |
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡_Status-Actively%20Developing-6366F1?style=flat-square&labelColor=1f2937" alt="Status" />
-  <img src="https://img.shields.io/badge/🔥_Focus-Full--Stack%20Excellence-FF6B6B?style=flat-square&labelColor=1f2937" alt="Focus" />
+  <img src="https://img.shields.io/badge/⚡_Status-Professional%20Developer-6366F1?style=flat-square&labelColor=1f2937" alt="Status" />
+  <img src="https://img.shields.io/badge/🔥_Focus-Plugin%20Development-FF6B6B?style=flat-square&labelColor=1f2937" alt="Focus" />
   <img src="https://img.shields.io/badge/📍_Location-India-00B4DB?style=flat-square&labelColor=1f2937" alt="Location" />
   <img src="https://img.shields.io/badge/✅_Open%20To-Collaborations-10B981?style=flat-square&labelColor=1f2937" alt="Open To" />
 </div>
@@ -48,24 +48,57 @@
 
 ## 👨‍💻 About Me
 
-I'm a **dedicated Computer Science graduate** and aspiring Software Engineer with a passion for building **scalable backend architectures** and **dynamic user interfaces**. I thrive on solving complex logical problems, debugging intricate issues, and continuously expanding my technical footprint.
+I'm a **Software Developer** with expertise in building **scalable backend architectures**, **dynamic user interfaces**, and **creative automation solutions**. Currently working at the intersection of software engineering and creative technologies, developing enterprise-grade plugins for Adobe Illustrator.
 
-My philosophy: *Build impactful software that lives at the intersection of beauty and functionality.*
+I thrive on solving complex logical problems, optimizing workflows, and creating tools that empower users to work smarter. My mission is to build impactful software that bridges the gap between creativity and technology.
 
 ### 🎨 What Drives Me:
-- 🏗️ **System Architecture & API Design** – Mapping complex database schemas to efficient RESTful endpoints
-- 🎭 **UI/UX Aesthetics** – Blending functionality with stunning dark-mode designs, glassmorphism, and micro-animations
-- 📚 **Continuous Learning** – Exploring new frameworks, cloud strategies, and clean code best practices
-- 🔒 **Cybersecurity** – Certified in Cyber Security with interest in secure application development
+- 🏗️ **System Architecture & API Design** – Mapping complex requirements to efficient, scalable solutions
+- 🎭 **UI/UX Aesthetics** – Blending functionality with stunning dark-mode designs and micro-interactions
+- 🤖 **Automation & Workflow Optimization** – Building tools that save time and streamline processes
+- 📚 **Continuous Learning** – Exploring new frameworks, creative technologies, and best practices
+- 🔒 **Security & Best Practices** – Certified in Cyber Security with focus on secure application development
 
 ---
 
 ## 🚀 Featured Projects & Experience
 
-### 📦 Label Manufacturing ERP | *Current Focus*
+### 🎨 Adobe Illustrator Plugin Suite | *Current Professional Role*
 <div align="left">
   
-> **Full-Stack Enterprise System**
+> **Enterprise Automation Solution**
+
+**Working as a Software Developer building advanced plugins for Adobe Illustrator to automate critical design workflows:**
+
+- **WDM (Workflow Design Management)** Plugin
+  - Automating complex design workflows and asset management
+  - Batch processing and intelligent automation features
+  - Seamless integration with Illustrator's native tools
+  
+- **TDP (Technical Design Processing)** Plugin
+  - Processing technical design specifications automatically
+  - Advanced shape manipulation and layer management
+  - Real-time preview and validation systems
+  
+- **SPC (Smart Production Control)** Plugin
+  - Monitoring and optimizing production workflows
+  - Automated quality checks and compliance validation
+  - Performance analytics and reporting
+
+**Tech Stack**: `ExtendScript` `UXP (Unified Extensibility Platform)` `JavaScript` `Adobe CEP` `REST APIs` `Node.js` `Docker`
+
+**Key Achievements:**
+- ✅ Significant reduction in manual workflow time
+- ✅ Enterprise-grade error handling and logging
+- ✅ Seamless cross-platform compatibility
+- ✅ Intuitive user interface design
+
+</div>
+
+### 📦 Label Manufacturing ERP | *Full-Stack Architecture*
+<div align="left">
+  
+> **Enterprise System Development**
 
 - **Backend**: Java Spring Boot (REST API), MongoDB, JWT Authentication
 - **Frontend**: React (Vite), Tailwind CSS, Redux Toolkit
@@ -86,10 +119,9 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 
 - Developed using React & Framer Motion
 - Custom physics-driven cursor with magnetic interactions
-- 3D tilt-responsive project cards
-- Dynamic hero section with particle animations
-- Smooth scroll-triggered animations
-- Performance optimized with lazy loading
+- 3D tilt-responsive project cards with advanced animations
+- Dynamic hero section with particle effects
+- Performance optimized with lazy loading and code splitting
 
 **Tech Stack**: `React` `Framer Motion` `Three.js` `Tailwind CSS` `Vercel`
 
@@ -102,12 +134,12 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 
 > **Complex Business Logic Implementation**
 
-- Designed core booking processing engine
-- Optimized seat allocation algorithm
-- Scheduling & availability management
-- Transaction handling & concurrency control
+- Designed core booking processing engine with transaction handling
+- Optimized seat allocation algorithm for high concurrency
+- Scheduling & availability management system
+- Concurrency control and data consistency mechanisms
 
-**Tech Stack**: `Java` `Spring` `MySQL` `Algorithms`
+**Tech Stack**: `Java` `Spring` `MySQL` `Algorithms` `Redis`
 
 </div>
 
@@ -116,11 +148,11 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 
 > **System-Level Networking Utility**
 
-- Python-based network interface monitoring
-- Packet analysis & traffic inspection
-- Real-time statistics & visualization
+- Python-based network interface monitoring and diagnostics
+- Packet analysis & real-time traffic inspection
+- Statistical analysis and visualization dashboard
 
-**Tech Stack**: `Python` `Networking` `Packet Analysis`
+**Tech Stack**: `Python` `Networking` `Packet Analysis` `Matplotlib`
 
 </div>
 
@@ -130,17 +162,26 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 
 <div align="center">
   <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,python,typescript,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,python,typescript,nextjs,javascript&theme=dark" />
 </div>
 
 <div align="center">
-  <h4>Databases & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,postman,vscode,figma&theme=dark" />
+  <h4>Databases & DevOps Tools</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,postman,vscode&theme=dark" />
 </div>
 
 <div align="center">
-  <h4>Frontend Specialization</h4>
+  <h4>Frontend & Creative Tech Specialization</h4>
   <img src="https://skillicons.dev/icons?i=tailwind,react,framer,threejs&theme=dark" />
+</div>
+
+<div align="center">
+  <h4>Adobe & Automation</h4>
+  <p>
+    <img src="https://img.shields.io/badge/ExtendScript-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="ExtendScript" />
+    <img src="https://img.shields.io/badge/UXP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="UXP" />
+    <img src="https://img.shields.io/badge/CEP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="CEP" />
+  </p>
 </div>
 
 ---
@@ -167,11 +208,12 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 | Metric | Value |
 |--------|-------|
 | 🎓 **Education** | B.Tech Computer Science |
-| 💼 **Experience** | Full-Stack Development |
-| 🏗️ **Specialization** | Backend Architecture & Frontend UX |
+| 💼 **Current Role** | Software Developer (Plugin Development) |
+| 🏗️ **Specialization** | Full-Stack & Creative Automation |
+| 🎨 **Focus Area** | Adobe Illustrator Extensions |
 | 🔐 **Security** | Certified in Cyber Security |
-| 🚀 **Current Goal** | Building Enterprise-Grade Systems |
-| 📈 **Growth** | 100+ GitHub Projects & Counting |
+| 🚀 **Goal** | Building Enterprise Automation Solutions |
+| 📈 **Impact** | 100+ GitHub Projects & Counting |
 
 </div>
 
@@ -181,7 +223,7 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 
 <div align="center">
   <p><strong>I'm always interested in:</strong></p>
-  <p>✨ Exciting full-stack projects | 🤝 Open source contributions | 💡 Tech discussions | 🚀 Collaboration opportunities</p>
+  <p>🎨 Creative tech & automation | 💼 Enterprise software development | 🤝 Open source contributions | 💡 Tech discussions | 🚀 Collaboration opportunities</p>
   
   <br/>
   
@@ -195,7 +237,7 @@ My philosophy: *Build impactful software that lives at the intersection of beaut
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time%20%F0%9F%92%BB;Let's%20create%20something%20amazing%20together%21" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building%20powerful%20automation%20tools%20for%20creators%20%F0%9F%8E%A8;Bridging%20creativity%20and%20technology%20%F0%9F%9A%80" alt="Closing Message" />
 </div>
 
 ---
