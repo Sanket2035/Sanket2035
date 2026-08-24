@@ -33,7 +33,7 @@
 | 🌱 | 💼 | 🎓 | 🎯 |
 |:---:|:---:|:---:|:---:|
 | **Learning** | **Building** | **Exploring** | **Goal** |
-| ExtendScript & UXP | Adobe Illustrator Plugins | Web3 & Cloud Architecture | Tech Lead |
+| ExtendScript, UXP & Python | Adobe Illustrator Plugins | Web3 & Cloud Architecture | Tech Lead |
 
 </div>
 
@@ -85,12 +85,13 @@ I thrive on solving complex logical problems, optimizing workflows, and creating
   - Automated quality checks and compliance validation
   - Performance analytics and reporting
 
-**Tech Stack**: `ExtendScript` `UXP (Unified Extensibility Platform)` `JavaScript` `Adobe CEP` `REST APIs` `Node.js` `Docker`
+**Tech Stack**: `ExtendScript` `UXP (Unified Extensibility Platform)` `JavaScript` `Adobe CEP` `Python` `REST APIs` `Node.js` `Docker`
 
 **Key Achievements:**
 - ✅ Significant reduction in manual workflow time
 - ✅ Enterprise-grade error handling and logging
 - ✅ Seamless cross-platform compatibility
+- ✅ Python backend integration for advanced automation
 - ✅ Intuitive user interface design
 
 </div>
@@ -181,6 +182,7 @@ I thrive on solving complex logical problems, optimizing workflows, and creating
     <img src="https://img.shields.io/badge/ExtendScript-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="ExtendScript" />
     <img src="https://img.shields.io/badge/UXP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="UXP" />
     <img src="https://img.shields.io/badge/CEP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="CEP" />
+    <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Backend" />
   </p>
 </div>
 
