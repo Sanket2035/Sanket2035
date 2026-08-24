@@ -1,194 +1,204 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Software+Developer;Building+Scalable+Dreams+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Software+Developer;Building+Scalable+Dreams+%F0%9F%9A%80;Creative+Automation+Specialist+%F0%9F%8E%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://sanket-shinde-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-020617?style=for-the-badge&logo=react&logoColor=6366f1&labelColor=1f2937" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanket-shinde2035" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Sanket2035" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub-1f2937?style=for-the-badge&logo=github&logoColor=6366f1&labelColor=020617" alt="GitHub" />
-  </a>
-  <a href="mailto:sanket.shinde2035@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937" alt="Email" />
-  </a>
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020617?style=for-the-badge&logo=react&logoColor=6366f1&labelColor=1f2937)](https://sanket-shinde-portfolio.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937)](https://www.linkedin.com/in/sanket-shinde2035)
+  [![GitHub](https://img.shields.io/badge/💻_GitHub-1f2937?style=for-the-badge&logo=github&logoColor=6366f1&labelColor=020617)](https://github.com/Sanket2035)
+  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937)](mailto:sanket.shinde2035@gmail.com)
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>✨ Crafting Premium Web Experiences & Robust Enterprise Backends ✨</h3>
-  <p><i>Software Developer | Full-Stack Engineer | Creative Automation Specialist</i></p>
+  <h2>✨ Crafting Premium Web Experiences & Enterprise Automation Solutions ✨</h2>
+  <p><b>Software Developer | Full-Stack Engineer | Creative Automation Specialist</b></p>
+  <p><i>Transforming complex workflows into elegant, automated solutions</i></p>
 </div>
 
 ---
 
-## 🎯 Current Status
+## 🎯 Quick Status Dashboard
 
 <div align="center">
 
-| 🌱 | 💼 | 🎓 | 🎯 |
+| 🌱 Learning | 💼 Building | 🎓 Exploring | 🚀 Goal |
 |:---:|:---:|:---:|:---:|
-| **Learning** | **Building** | **Exploring** | **Goal** |
-| ExtendScript, UXP & Python | Adobe Illustrator Plugins | Web3 & Cloud Architecture | Tech Lead |
+| **ExtendScript** | **Adobe Plugins** | **Web3 & Cloud** | **Tech Lead** |
+| **UXP & Python** | **Enterprise Apps** | **AI Integration** | **System Architect** |
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡_Status-Professional%20Developer-6366F1?style=flat-square&labelColor=1f2937" alt="Status" />
-  <img src="https://img.shields.io/badge/🔥_Focus-Plugin%20Development-FF6B6B?style=flat-square&labelColor=1f2937" alt="Focus" />
-  <img src="https://img.shields.io/badge/📍_Location-India-00B4DB?style=flat-square&labelColor=1f2937" alt="Location" />
-  <img src="https://img.shields.io/badge/✅_Open%20To-Collaborations-10B981?style=flat-square&labelColor=1f2937" alt="Open To" />
+  
+  ![Status](https://img.shields.io/badge/⚡_Status-Professional%20Developer-6366F1?style=flat-square&labelColor=1f2937)
+  ![Focus](https://img.shields.io/badge/🔥_Focus-Plugin%20Development-FF6B6B?style=flat-square&labelColor=1f2937)
+  ![Location](https://img.shields.io/badge/📍_Location-India-00B4DB?style=flat-square&labelColor=1f2937)
+  ![Collaboration](https://img.shields.io/badge/✅_Open%20To-Collaborations-10B981?style=flat-square&labelColor=1f2937)
+  
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with expertise in building **scalable backend architectures**, **dynamic user interfaces**, and **creative automation solutions**. Currently working at the intersection of software engineering and creative technologies, developing enterprise-grade plugins for Adobe Illustrator.
+I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade plugins for Adobe Illustrator, I bridge the gap between creative tools and enterprise automation.
 
-I thrive on solving complex logical problems, optimizing workflows, and creating tools that empower users to work smarter. My mission is to build impactful software that bridges the gap between creativity and technology.
+I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and function.
 
-### 🎨 What Drives Me:
-- 🏗️ **System Architecture & API Design** – Mapping complex requirements to efficient, scalable solutions
-- 🎭 **UI/UX Aesthetics** – Blending functionality with stunning dark-mode designs and micro-interactions
-- 🤖 **Automation & Workflow Optimization** – Building tools that save time and streamline processes
-- 📚 **Continuous Learning** – Exploring new frameworks, creative technologies, and best practices
-- 🔒 **Security & Best Practices** – Certified in Cyber Security with focus on secure application development
+### 🎨 Core Competencies:
+- 🏗️ **System Architecture & API Design** – Enterprise-scale solutions with clean, maintainable code
+- 🎭 **UI/UX Excellence** – Dark-mode aesthetics, micro-animations, and seamless user experiences
+- 🤖 **Workflow Automation** – Reducing manual processes and increasing productivity
+- 🔌 **Plugin Development** – Extending creative tools with powerful features
+- 📚 **Continuous Learning** – Always exploring emerging technologies and best practices
+- 🔒 **Security & Best Practices** – Certified in Cyber Security with enterprise-grade standards
 
 ---
 
 ## 🚀 Featured Projects & Experience
 
-### 🎨 Adobe Illustrator Plugin Suite | *Current Professional Role*
+### 🎨 Adobe Illustrator Plugin Suite | **Current Professional Role**
 <div align="left">
-  
-> **Enterprise Automation Solution**
 
-**Working as a Software Developer building advanced plugins for Adobe Illustrator to automate critical design workflows:**
+> **Enterprise Creative Automation Platform**
 
-- **WDM (Workflow Design Management)** Plugin
-  - Automating complex design workflows and asset management
-  - Batch processing and intelligent automation features
-  - Seamless integration with Illustrator's native tools
+**Developing advanced plugins for Adobe Illustrator that revolutionize design workflow automation:**
+
+**Components:**
+- **🎯 WDM (Workflow Design Management)**
+  - Automates complex design workflows and asset management
+  - Batch processing with intelligent workflow orchestration
+  - Seamless Illustrator integration with native tool compatibility
   
-- **TDP (Technical Design Processing)** Plugin
-  - Processing technical design specifications automatically
-  - Advanced shape manipulation and layer management
+- **📊 TDP (Technical Design Processing)**
+  - Automated technical specification processing
+  - Advanced shape manipulation with layer management
   - Real-time preview and validation systems
   
-- **SPC (Smart Production Control)** Plugin
-  - Monitoring and optimizing production workflows
+- **⚙️ SPC (Smart Production Control)**
+  - Production workflow monitoring and optimization
   - Automated quality checks and compliance validation
-  - Performance analytics and reporting
+  - Performance analytics and detailed reporting
 
-**Tech Stack**: `ExtendScript` `UXP (Unified Extensibility Platform)` `JavaScript` `Adobe CEP` `Python` `REST APIs` `Node.js` `Docker`
+**Tech Stack:** 
+`ExtendScript` `UXP` `JavaScript` `Adobe CEP` `Python` `REST APIs` `Node.js` `Docker` `Flask`
 
-**Key Achievements:**
-- ✅ Significant reduction in manual workflow time
-- ✅ Enterprise-grade error handling and logging
-- ✅ Seamless cross-platform compatibility
-- ✅ Python backend integration for advanced automation
-- ✅ Intuitive user interface design
+**Highlights:**
+- ✨ Significant reduction in manual workflow time (estimated 40-60% efficiency gain)
+- ✨ Enterprise-grade error handling with comprehensive logging
+- ✨ Cross-platform compatibility (Windows & macOS)
+- ✨ Python backend for ML-based automation and advanced processing
+- ✨ Intuitive UI/UX design for seamless user adoption
 
 </div>
 
-### 📦 Label Manufacturing ERP | *Full-Stack Architecture*
+---
+
+### 📦 Label Manufacturing ERP | **Full-Stack Enterprise System**
 <div align="left">
-  
-> **Enterprise System Development**
 
-- **Backend**: Java Spring Boot (REST API), MongoDB, JWT Authentication
-- **Frontend**: React (Vite), Tailwind CSS, Redux Toolkit
-- **Features**: 
-  - Complex inventory management with real-time updates
-  - Multi-tenant architecture with role-based access control
-  - Advanced reporting & analytics dashboard
-  - Automated workflow automation system
+> **Comprehensive Enterprise Resource Planning Solution**
 
-**Tech Stack**: `Java` `Spring Boot` `MongoDB` `React` `Vite` `Tailwind CSS` `Docker`
+- **Backend:** Java Spring Boot REST API, MongoDB, JWT Authentication, Redis caching
+- **Frontend:** React (Vite), Tailwind CSS, Redux Toolkit, responsive design
+- **Key Features:** 
+  - 📦 Complex inventory management with real-time updates
+  - 👥 Multi-tenant architecture with granular role-based access control
+  - 📈 Advanced reporting & analytics dashboard with data visualization
+  - 🔄 Automated workflow management and process automation
+
+**Tech Stack:** `Java` `Spring Boot` `MongoDB` `React` `Vite` `Tailwind CSS` `Docker` `PostgreSQL`
 
 </div>
 
-### 🌐 3D Interactive Portfolio | *Frontend Engineering Showcase*
+---
+
+### 🌐 3D Interactive Portfolio | **Frontend Engineering Showcase**
 <div align="left">
 
 > **Premium Animated Web Experience**
 
-- Developed using React & Framer Motion
-- Custom physics-driven cursor with magnetic interactions
-- 3D tilt-responsive project cards with advanced animations
-- Dynamic hero section with particle effects
-- Performance optimized with lazy loading and code splitting
+A high-performance portfolio featuring cutting-edge frontend technologies:
+- 🎨 React & Framer Motion with advanced animations
+- 🎯 Custom physics-driven cursor with magnetic interactions
+- 📱 3D tilt-responsive project cards with parallax effects
+- ✨ Dynamic hero with particle animations and scroll triggers
+- ⚡ Performance optimized with lazy loading and code splitting
 
-**Tech Stack**: `React` `Framer Motion` `Three.js` `Tailwind CSS` `Vercel`
+**Tech Stack:** `React` `Framer Motion` `Three.js` `Tailwind CSS` `Vercel`
 
-**🔗 [View Live](https://sanket-shinde-portfolio.vercel.app)**
-
-</div>
-
-### 🚆 Train Ticket Booking System | *Backend Logic & Algorithms*
-<div align="left">
-
-> **Complex Business Logic Implementation**
-
-- Designed core booking processing engine with transaction handling
-- Optimized seat allocation algorithm for high concurrency
-- Scheduling & availability management system
-- Concurrency control and data consistency mechanisms
-
-**Tech Stack**: `Java` `Spring` `MySQL` `Algorithms` `Redis`
-
-</div>
-
-### 🔍 Network Monitoring Tool | *Python Utilities*
-<div align="left">
-
-> **System-Level Networking Utility**
-
-- Python-based network interface monitoring and diagnostics
-- Packet analysis & real-time traffic inspection
-- Statistical analysis and visualization dashboard
-
-**Tech Stack**: `Python` `Networking` `Packet Analysis` `Matplotlib`
+**[🔗 View Live Portfolio](https://sanket-shinde-portfolio.vercel.app)** | [GitHub Repo](https://github.com/Sanket2035)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚆 Train Ticket Booking System | **Backend Engineering**
+<div align="left">
 
-<div align="center">
-  <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,python,typescript,nextjs,javascript&theme=dark" />
-</div>
+> **Complex Business Logic & Algorithm Implementation**
 
-<div align="center">
-  <h4>Databases & DevOps Tools</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,postman,vscode&theme=dark" />
-</div>
+- 🎫 Core booking engine with distributed transaction handling
+- 🎯 Optimized seat allocation algorithm (handles high concurrency)
+- 📅 Intelligent scheduling & real-time availability management
+- 🔒 ACID compliance with concurrency control mechanisms
 
-<div align="center">
-  <h4>Frontend & Creative Tech Specialization</h4>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,framer,threejs&theme=dark" />
-</div>
+**Tech Stack:** `Java` `Spring Framework` `MySQL` `Redis` `Algorithms` `Design Patterns`
 
-<div align="center">
-  <h4>Adobe & Automation</h4>
-  <p>
-    <img src="https://img.shields.io/badge/ExtendScript-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="ExtendScript" />
-    <img src="https://img.shields.io/badge/UXP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="UXP" />
-    <img src="https://img.shields.io/badge/CEP-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="CEP" />
-    <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Backend" />
-  </p>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 🔍 Network Monitoring Tool | **Python System Utilities**
+<div align="left">
+
+> **Advanced Network Diagnostics & Monitoring**
+
+- 📡 Real-time network interface monitoring and diagnostics
+- 📊 Packet analysis with traffic inspection and filtering
+- 📈 Statistical analysis with visualization dashboards
+- 🔔 Alerts and anomaly detection
+
+**Tech Stack:** `Python` `Networking Protocols` `Packet Analysis` `Matplotlib` `Pandas`
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+  <h4>💻 Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,python,typescript,nextjs,javascript&theme=dark" alt="Languages & Frameworks" />
+</div>
+
+<div align="center">
+  <h4>🗄️ Databases & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,redis,git,postman,vscode&theme=dark" alt="Databases & DevOps" />
+</div>
+
+<div align="center">
+  <h4>🎨 Frontend & Creative Specialization</h4>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,framer,threejs&theme=dark" alt="Frontend & Creative" />
+</div>
+
+<div align="center">
+  <h4>🎨 Adobe Ecosystem & Automation</h4>
+  <br/>
+  <img src="https://img.shields.io/badge/ExtendScript-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="ExtendScript" />
+  <img src="https://img.shields.io/badge/UXP-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="UXP" />
+  <img src="https://img.shields.io/badge/CEP-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="CEP" />
+  <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
+
+---
+
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanket2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=ffffff&title_color=6366F1&icon_color=6366F1&rank_icon=percentile" width="48%" alt="GitHub Stats" />
@@ -203,19 +213,27 @@ I thrive on solving complex logical problems, optimizing workflows, and creating
 
 ---
 
-## 💡 Key Highlights
+## 💡 Professional Highlights
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
+| 📚 | 💼 | 🏗️ | 🎨 | 🔐 | 🎯 | 📈 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **B.Tech CS** | **Software Dev** | **Full-Stack** | **Adobe Ext** | **CyberSec** | **Enterprise** | **100+ Projects** |
+
+</div>
+
+<div align="center">
+
+| Metric | Details |
+|--------|---------|
 | 🎓 **Education** | B.Tech Computer Science |
-| 💼 **Current Role** | Software Developer (Plugin Development) |
-| 🏗️ **Specialization** | Full-Stack & Creative Automation |
-| 🎨 **Focus Area** | Adobe Illustrator Extensions |
-| 🔐 **Security** | Certified in Cyber Security |
-| 🚀 **Goal** | Building Enterprise Automation Solutions |
-| 📈 **Impact** | 100+ GitHub Projects & Counting |
+| 💼 **Current Role** | Software Developer - Plugin Development |
+| 🏗️ **Specialization** | Full-Stack Engineering & Creative Automation |
+| 🎨 **Expertise** | Adobe Illustrator Extensions, Enterprise Apps |
+| 🔐 **Certifications** | Certified in Cyber Security |
+| 🚀 **Mission** | Building Enterprise Automation Solutions |
+| 🌟 **Portfolio** | 100+ GitHub Projects & Counting |
 
 </div>
 
@@ -224,26 +242,64 @@ I thrive on solving complex logical problems, optimizing workflows, and creating
 ## 🌟 Let's Connect & Collaborate!
 
 <div align="center">
-  <p><strong>I'm always interested in:</strong></p>
-  <p>🎨 Creative tech & automation | 💼 Enterprise software development | 🤝 Open source contributions | 💡 Tech discussions | 🚀 Collaboration opportunities</p>
+  
+  <h3>I'm interested in collaborating on:</h3>
+  
+  🎨 **Creative Tech** • 🤖 **Automation Solutions** • 💼 **Enterprise Software** • 🔌 **Plugin Development** • 🤝 **Open Source** • 💡 **Innovative Ideas**
+  
+  <br/>
+  <br/>
+  
+  [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-shinde2035)
+  [![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanket.shinde2035@gmail.com)
+  [![View Portfolio](https://img.shields.io/badge/View_My_Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://sanket-shinde-portfolio.vercel.app)
   
   <br/>
   
-  <a href="https://www.linkedin.com/in/sanket-shinde2035">
-    <img src="https://img.shields.io/badge/Let's_Connect-6366F1?style=for-the-badge&logo=linkedin" alt="Connect" />
-  </a>
+  <p><i>💬 Feel free to reach out for collaborations, tech discussions, or just a friendly chat! Always excited to explore new opportunities and ideas.</i></p>
   
-  <p><i>Feel free to reach out for collaborations or just a friendly tech chat! 🚀</i></p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building%20powerful%20automation%20tools%20for%20creators%20%F0%9F%8E%A8;Bridging%20creativity%20and%20technology%20%F0%9F%9A%80" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%20for%20creators%20%F0%9F%8E%A8;Bridging%20creativity%20and%20technology%20%F0%9F%9A%80;Let's%20build%20something%20amazing%20together%20%F0%9F%92%BB" alt="Closing Message" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+  ### 🎯 Fun Facts
+  
+  - 🎮 When not coding, I'm exploring new UI frameworks and design patterns
+  - 📚 Passionate about system design and scalable architecture
+  - 🌙 Night owl developer - peak productivity after 10 PM
+  - 🎨 Obsessed with dark mode aesthetics and micro-interactions
+  - 🚀 Constantly learning and experimenting with emerging technologies
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Sanket2035&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanket2035&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <details>
+    <summary><b>📖 More About Me</b></summary>
+    <br/>
+    
+  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision and creativity.
+    
+  My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions that users love.
+    
+  Currently focused on creative automation and enterprise plugin development, I'm excited about the potential of AI, Web3, and cloud technologies in shaping the future of software.
+    
+  </details>
+  
 </div>
