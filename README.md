@@ -221,7 +221,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 
 | 📚 | 💼 | 🏗️ | 🎨 | 🔐 | 🎯 | 📈 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **B.Tech CS** | **Software Dev** | **Full-Stack** | **Adobe Ext** | **CyberSec** | **Enterprise** | **100+ Projects** |
+| **MCA** | **Software Dev** | **Full-Stack** | **Adobe Ext** | **CyberSec** | **Enterprise** | **25+ Projects** |
 
 </div>
 
@@ -229,13 +229,13 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 
 | Metric | Details |
 |--------|---------|
-| 🎓 **Education** | B.Tech Computer Science |
+| 🎓 **Education** | MCA Management |
 | 💼 **Current Role** | Software Engineer — Aspirella Techno Docs Pvt. Ltd. |
 | 🏗️ **Specialization** | Full-Stack Engineering & Creative Automation |
 | 🎨 **Expertise** | Adobe Illustrator Extensions, Enterprise Apps |
 | 🔐 **Certifications** | Certified in Cyber Security |
 | 🚀 **Mission** | Building Enterprise Automation Solutions |
-| 🌟 **Portfolio** | 100+ GitHub Projects & Counting |
+| 🌟 **Portfolio** | 25+ GitHub Projects & Counting |
 
 </div>
 
