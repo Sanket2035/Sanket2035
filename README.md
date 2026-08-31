@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Software+Developer;Building+Scalable+Dreams+%F0%9F%9A%80;Creative+Automation+Specialist+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full-Stack+Engineer+%26+Automation+Specialist" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade plugins for Adobe Illustrator, I bridge the gap between creative tools and enterprise automation.
+I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade plugins and automation tools for the Adobe ecosystem.
 
 I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and function.
 
@@ -61,10 +61,12 @@ I thrive on solving complex technical challenges, optimizing workflows, and crea
 
 ## 🚀 Featured Projects & Experience
 
-### 🎨 Adobe Illustrator Plugin Suite | **Current Professional Role**
+### 🎨 Adobe Illustrator Plugin Suite | **Software Engineer — Aspirella Techno Docs Pvt. Ltd. (since 11 Aug)**
 <div align="left">
 
 > **Enterprise Creative Automation Platform**
+
+Currently working as a Software Engineer at Aspirella Techno Docs Pvt. Ltd. (since 11 Aug) developing Adobe CEP automation plugins and integrations.
 
 **Developing advanced plugins for Adobe Illustrator that revolutionize design workflow automation:**
 
@@ -201,14 +203,14 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=ffffff&title_color=6366F1&icon_color=6366F1&rank_icon=percentile" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=ffffff&title_color=6366F1&icon_color=6366F1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket2035&theme=tokyonight&hide_border=true&background=020617&stroke=6366F1&fire=6366F1" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket2035&theme=tokyo-night&bg_color=020617&hide_border=true&color=6366F1&line=6366F1&point=FF6B6B&area_color=1f2937" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket2035&theme=tokyo-night&bg_color=020617&hide_border=true&color=6366F1&line=6366F1&point=FF6B6B&area_color=1f2937" width="100%" />
 </div>
 
 ---
@@ -228,7 +230,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 | Metric | Details |
 |--------|---------|
 | 🎓 **Education** | B.Tech Computer Science |
-| 💼 **Current Role** | Software Developer - Plugin Development |
+| 💼 **Current Role** | Software Engineer — Aspirella Techno Docs Pvt. Ltd. |
 | 🏗️ **Specialization** | Full-Stack Engineering & Creative Automation |
 | 🎨 **Expertise** | Adobe Illustrator Extensions, Enterprise Apps |
 | 🔐 **Certifications** | Certified in Cyber Security |
@@ -263,7 +265,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%20for%20creators%20%F0%9F%8E%A8;Bridging%20creativity%20and%20technology%20%F0%9F%9A%80;Let's%20build%20something%20amazing%20together%20%F0%9F%92%BB" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%20for+designers%20and%20teams" />
 </div>
 
 <br/>
@@ -273,7 +275,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 <div align="center">
   
   ### 🎯 Fun Facts
-  
+n  
   - 🎮 When not coding, I'm exploring new UI frameworks and design patterns
   - 📚 Passionate about system design and scalable architecture
   - 🌙 Night owl developer - peak productivity after 10 PM
@@ -294,7 +296,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
     <summary><b>📖 More About Me</b></summary>
     <br/>
     
-  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision and creativity.
+  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision and care.
     
   My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions that users love.
     
