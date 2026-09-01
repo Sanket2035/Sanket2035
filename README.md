@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;So[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Full Stack+Engineer;Automation+Specialist" />
 </div>
 
 <div align="center">
@@ -45,9 +45,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade[...]
+I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade plugins and automation tools that transform workflows.
 
-I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and func[...]
+I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and function.
 
 ### 🎨 Core Competencies:
 - 🏗️ **System Architecture & API Design** – Enterprise-scale solutions with clean, maintainable code
@@ -90,7 +90,7 @@ Currently working as a Software Engineer at Aspirella Techno Docs Pvt. Ltd. (sin
 `ExtendScript` `UXP` `JavaScript` `Adobe CEP` `Python` `REST APIs` `Node.js` `Docker` `Flask`
 
 **Highlights:**
-- ��� Significant reduction in manual workflow time (estimated 40-60% efficiency gain)
+- ✨ Significant reduction in manual workflow time (estimated 40-60% efficiency gain)
 - ✨ Enterprise-grade error handling with comprehensive logging
 - ✨ Cross-platform compatibility (Windows & macOS)
 - ✨ Python backend for ML-based automation and advanced processing
@@ -203,14 +203,14 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=ffffff&title_color=6366F1&icon_color=6366F1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket2035&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=ffffff&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket2035&theme=tokyonight&hide_border=true&background=020617&stroke=6366F1&fire=6366F1" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket2035&theme=tokyo-night&bg_color=020617&hide_border=true&color=6366F1&line=6366F1&point=FF6B6B&area_color=1f2937" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket2035&theme=tokyo-night&bg_color=020617&hide_border=true&color=6366F1&line=6366F1&point=FF6B6B&area_color=1f2937" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -265,7 +265,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%20for%20creative%20professionals;Transforming%20complex%20workflows%20into%20elegant%20solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -296,9 +296,9 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
     <summary><b>📖 More About Me</b></summary>
     <br/>
     
-  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision [...]
+  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision and creativity.
     
-  My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions t[...]
+  My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions that users love.
     
   Currently focused on creative automation and enterprise plugin development, I'm excited about the potential of AI, Web3, and cloud technologies in shaping the future of software.
     
