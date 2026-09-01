@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;Software+Engineer+%26+Automation+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Shinde;So[...]
 </div>
 
 <div align="center">
@@ -45,9 +45,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade plugins and automation tools for the Adobe ecosystem.
+I'm a **Software Developer** with a passion for building **scalable backend architectures**, **intuitive user interfaces**, and **powerful automation solutions**. Currently developing enterprise-grade[...]
 
-I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and function.
+I thrive on solving complex technical challenges, optimizing workflows, and creating tools that empower users to work smarter and faster. My goal is to build software that excels at both form and func[...]
 
 ### 🎨 Core Competencies:
 - 🏗️ **System Architecture & API Design** – Enterprise-scale solutions with clean, maintainable code
@@ -90,7 +90,7 @@ Currently working as a Software Engineer at Aspirella Techno Docs Pvt. Ltd. (sin
 `ExtendScript` `UXP` `JavaScript` `Adobe CEP` `Python` `REST APIs` `Node.js` `Docker` `Flask`
 
 **Highlights:**
-- ✨ Significant reduction in manual workflow time (estimated 40-60% efficiency gain)
+- ��� Significant reduction in manual workflow time (estimated 40-60% efficiency gain)
 - ✨ Enterprise-grade error handling with comprehensive logging
 - ✨ Cross-platform compatibility (Windows & macOS)
 - ✨ Python backend for ML-based automation and advanced processing
@@ -265,7 +265,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%20for+designers%20and%20teams" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building%20powerful%20automation%20tools%[...]
 </div>
 
 <br/>
@@ -275,7 +275,7 @@ A high-performance portfolio featuring cutting-edge frontend technologies:
 <div align="center">
   
   ### 🎯 Fun Facts
-n  
+  
   - 🎮 When not coding, I'm exploring new UI frameworks and design patterns
   - 📚 Passionate about system design and scalable architecture
   - 🌙 Night owl developer - peak productivity after 10 PM
@@ -296,9 +296,9 @@ n
     <summary><b>📖 More About Me</b></summary>
     <br/>
     
-  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision and care.
+  I'm passionate about building software that makes a real impact. Whether it's crafting beautiful user interfaces or architecting robust backend systems, I approach every project with precision [...]
     
-  My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions that users love.
+  My journey in tech has been about constant evolution - from learning new frameworks to mastering system design principles. I believe in writing clean, maintainable code and creating solutions t[...]
     
   Currently focused on creative automation and enterprise plugin development, I'm excited about the potential of AI, Web3, and cloud technologies in shaping the future of software.
     
